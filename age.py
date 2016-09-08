@@ -1,0 +1,6 @@
+age >=1 and age <=2 = raw_input ("vy malenkii") 
+age >= 3 and age <= 6 = raw_input ("detsad")
+age >= 7 and age <= 17 = raw_input ("shkola")
+age >= 18 and age <= 64 = raw_input ("idi rabotay")
+age >= 65 and age <= 120 = raw_input ("pensiay")
+else: = raw_input ("lydi stolko ne jivut")
